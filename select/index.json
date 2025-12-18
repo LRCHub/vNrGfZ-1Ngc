@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "ミ・アモーレ [Meu amor e...]",
+  "base_artist": "Akina Nakamori",
+  "createdAt": "2025-12-18T02:36:21.401247Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミ・アモーレ[Meu amor e...] <30th anniversary mix>",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/01_ミ・アモーレ[Meu_amor_e...]__30th_anniversary_mix_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミ・アモーレ[Meu amor e...] - 2009リマスター",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/02_ミ・アモーレ[Meu_amor_e...]_-_2009リマスター_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミ・アモーレ [Meu amor é…]",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/03_ミ・アモーレ_[Meu_amor_é...]_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミ・アモーレ[Meu amor e...] - 30th anniversary mix",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/04_ミ・アモーレ[Meu_amor_e...]_-_30th_anniversary_mix_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミ・アモーレ (Meu Amor É…)",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/05_ミ・アモーレ_(Meu_Amor_É...)_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミ・アモーレ [Meu amor e...] (Single Version)",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/06_ミ・アモーレ_[Meu_amor_e...]_(Single_Version)_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミ・アモーレ [Meu amor e...] (Single Version) [オリジナル・カラオケ]",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/07_ミ・アモーレ_[Meu_amor_e...]_(Single_Version)_[オリジナル・カラオケ]_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミ・アモーレ〔Meu amor e",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/08_ミ・アモーレ〔Meu_amor_e_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ミ・アモーレ［Meu amor é…］",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/09_ミ・アモーレ[Meu_amor_é...]_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミ・アモーレ［Meu amor é…］",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/10_ミ・アモーレ[Meu_amor_é...]_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ミ・アモーレ〔Meu amor é…〕",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/11_ミ・アモーレ〔Meu_amor_é...〕_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミ・アモーレ[Meu amor e...] <30th anniversary mix>",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/12_ミ・アモーレ[Meu_amor_e...]__30th_anniversary_mix_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ミ・アモーレ",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/13_ミ・アモーレ_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ミ・アモーレ (from 「BEST」)",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/14_ミ・アモーレ_(from_「BEST」)_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "赤い鳥逃げた (「ミ・アモーレ」別歌詩&ラテン・ロング・ヴァージョン)",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/15_赤い鳥逃げた_(「ミ・アモーレ」別歌詩&ラテン・ロング・ヴァージョン)_中森明菜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ[Meu amor e...]",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_01_ミ・アモーレ[Meu_amor_e...]_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_02_ミ・アモーレ_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_03_ミ・アモーレ_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_04_ミ・アモーレ_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_05_ミ・アモーレ_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_06_ミ・アモーレ_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ(Meu amor e・・・)",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_07_ミ・アモーレ(Meu_amor_e・・・)_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_08_ミ・アモーレ_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_09_ミ・アモーレ_中森_明菜.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ミ・アモーレ[Meu amor e...]",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_10_ミ・アモーレ[Meu_amor_e...]_中森_明菜.txt"
+    }
+  ]
+}
